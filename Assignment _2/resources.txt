@@ -1,0 +1,18 @@
+1. What is a directory, and what is its relationship to files?
+A directory can also be called a 'folder', and it is used as a container to organize different files into different groups. It is basically a folder that contains 
+a collection of files. Directories inside the current directory are called subdirectories. Another definition is that they are hierarchical systems of folders. 
+Words such as 'grandparent', 'parent', and 'child' can be used to describe the relationships between the folders and files. So the subdirectory of the current 
+directory would be referred to as a 'child' of that directory and the current directory would be the 'parent directory' of the subdirectory. 
+
+2. How are VCS useful?
+A VCS is a version control system that basically helps the user remember all the changes that they made by allowing them to take screenshots of their work and use
+them to track them over time. This is useful because it allows users, in a simple way, to create a list of how they changed over time, and if they don't like the 
+change or they want to revert back, they can. It also allows them to make changes that might or might not work. When they figure out which changes did not work, 
+they can revert back to the previous version, before the change, like I mentioned earlier. 
+VCS is also useful because it makes collaboration and sharing easier. Everyone who is involved can see all the changes that were made by everyone, and be able to 
+manage any problems that may happen in a file. 
+
+3. Do you have a favorite artistic medium? Why is it your favorite?
+My favorite artistic medium would be in the form of a website. This is my favorite medium because it can be used for many different reasons. It is a pretty 'broad'
+medium. It can be used for entertainment, business, social media, blogs, and the list goes on. A website can also be used on many different platforms making it more 
+accessible to the users preferred audience. 
