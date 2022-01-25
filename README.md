@@ -1,2 +1,2 @@
-# MART341-WebDesign
+# Hope Rebich MART341-WebDesign
 Repository for my Introduction to Web Design and Development Homework 
