@@ -1,0 +1,13 @@
+What is the relationship between an IP address and the DNS?
+So an IP is an internet protocol that is just the computer's address. The DNS, or Domain Name System, associates the names of the websites to the corresponding IP addresses. So, your computer uses DNS to look up the domain names and then gets the associated IP address, which is then used to connect that computer to the destination on the internet. It translates the domain name to a specific IP address.
+
+What is a cookie?
+Cookies are files stored on your computer that websites use to remember who you are. This happens when you are creating an account for a service. When you give them your address and password you want for your account, you are sending a 'post-request' to a server. The server sends back the web page associated with your account back to your browser. With that, it sends a cookie which is just data that your browser sees and knows to save, which makes them remember who you are.
+
+
+What are the three essential parts of a URL?
+URL stands for Uniform Resource Locator which is assigned to every website so that users and servers can find a site quickly and with no hassle.
+The three essential parts of a URL are the protocol, domain, and path.
+The protocol states how the browser will communicate with the web server, and an example of one is the Hypertext Transfer Protocol or HTTP. It is what you usually see at the beginning of the URL and looks like "http://". The URL needs the protocol to to exchange or transfer data around on a computer network.
+The domain is basically the name of your website and no one else can copy or take your name. It is the main direction to the site and its contents on it. It indicates which web server is being requested.
+The path is the instructions on how to navigate directories. It is like the step-by-step directions to the final page or file, or in other words, the path to the resource.
