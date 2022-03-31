@@ -1,0 +1,65 @@
+body {
+  background-color: #D3D3D3;
+  font-family: fantasy;
+  text-align: center;
+}
+
+div {
+  border: 5px solid #FF0000;
+  display: inline-block;
+}
+
+img {
+  border-radius: 50%;
+  border: 10px solid #D3D3D3;
+}
+
+.inspiration {
+  background-color: #FFC0CB;
+  height: 930px;
+  width: 900px;
+  display: inline-block;
+}
+
+#title {
+  font-size: 50px;
+  background-color: #FF0000;
+  color: #D3D3D3;
+  margin: auto;
+  padding: 20px;
+}
+
+.palette {
+  background-color: white;
+  width: 800px;
+}
+
+.dot {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot.one {
+  background-color: #D3D3D3;
+}
+
+.dot.two {
+  background-color: #000000;
+}
+
+.dot.three {
+  background-color: #FF0000;
+}
+
+.dot.four {
+  background-color: #FFC0CB;
+}
+
+#square {
+  height: 100px;
+  width: 100px;
+  background-color: #FF0000;
+  display: inline-block;
+}
