@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Autography-DOLnw.otf';
+    src: url('../fonts/Autography-DOLnw.otf') format('truetype');
+    font-style: normal;
+ }
+ @font-face {
+    font-family: 'Theprestigesignature-ywwaM.otf';
+    src: url('../fonts/Theprestigesignature-ywwaM.otf') format('truetype');
+    font-weight: 700;
+ }
+
+ @font-face {
+   font-family: 'EASPORTS15.ttf';
+   src: url('../fonts/EASPORTS15.ttf') format('truetype');
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Orbitron-VariableFont_wght.ttf';
+   src: url('../fonts/Orbitron-VariableFont_wght.ttf') format('truetype');
+   font-weight: 700;
+}
